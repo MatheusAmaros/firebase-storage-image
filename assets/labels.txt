@@ -1,0 +1,4 @@
+0 Black Spot
+1 Canker
+2 Greening
+3 Class 4
